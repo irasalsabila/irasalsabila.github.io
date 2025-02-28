@@ -13,18 +13,18 @@ If you’re interested in collaborating or discussing low-resource NLP, feel fre
 ## News
 - **[Feb 2025]** Joined **SEA-VL** as a contributor – working on Southeast Asian vision-language research with [SEACrowd](https://seacrowd.github.io)!  
 - **[Jan 2025]** Selected as a **volunteer for COLING 2025** – looking forward to engaging with the NLP community!  
-- **[Aug 2024]** Officially **started my M.S. at MBZUAI** 🎉  
+- **[Aug 2024]** Officially **started my M.Sc. in NLP at MBZUAI** 🎉  
 
 {% include_relative _includes/publications.md %}
 
 ## Education
 - M.S. in Natural Language Processing, MBZUAI, UAE (Aug 2024 – Present)  
-  *Advisor: [Dr. Fajri Koto](https://www.fajrikoto.com/home)*  
+  *Advisor: Dr. Fajri Koto*  
 - B.I. in Informatics, Universitas Islam Indonesia (UII), Indonesia (May 2018 – Aug 2022)  
   *Advisor: Arrie Kusumawardhani*
 
 ## Work Experiences
-- Data Scientist at [SOLUSI247]([https://dcse.fmipa.ugm.ac.id/](http://solusi247.com)) (Aug 2022 -- Jul 2024)
+- Data Scientist at [SOLUSI247](http://solusi247.com) (Aug 2022 -- Jul 2024)
 
 
 ## References
