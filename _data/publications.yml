@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Sentiment Analysis of Expedition Customer Satisfaction using BiGRU and BiLSTM
+    authors: <strong>Salsabila Zahirah Pranida</strong>, Arrie Kurniawardhani
+    conference_short: IJAIDM 2022
+    conference: Indonesian Journal of Artificial Intelligence and Data Mining <strong>(IJAIDM)</strong>, 2022
+    pdf: https://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/view/17361
+    code: ""
+    bibtex: ""
+    image: ""
+    notes: Published in Vol. 5, Issue 1, Pages 44-53
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+  - title: Jendela Jogja: Portal Promosi dan Pemasaran Pariwisata Yogyakarta
+    authors: Muhammad Rizhan Ridha, Dimas Danu Budi Pratikto, Ari Farhan Nurihsan, Salma Aufa Azaliarahma, <strong>Salsabila Zahirah Pranida</strong>, Dhomas Hatta Fudholi, Ari Sujarwo
+    conference_short: SNATI 2019
+    conference: Seminar Nasional Aplikasi Teknologi Informasi <strong>(SNATI)</strong>, 2019
+    pdf: https://journal.uii.ac.id/snati/article/view/13443
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    page: ""
+    bibtex: ""
+    notes: ""
+    image: ""
