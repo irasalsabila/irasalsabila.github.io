@@ -29,4 +29,4 @@ If you’re interested in collaborating or discussing low-resource NLP, feel fre
 
 ## References
 
-- [Dr. Fajri Koto]([https://www.fajrikoto.com/home]). Dept. NLP, MBZUAI, UAE.
+- [Dr. Fajri Koto](https://www.fajrikoto.com/home). Dept. NLP, MBZUAI, UAE.
