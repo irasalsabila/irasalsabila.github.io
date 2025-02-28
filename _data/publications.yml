@@ -4,13 +4,13 @@ main:
     conference: "Indonesian Journal of Artificial Intelligence and Data Mining, 2022"
     conference_short: "IJAIDM 2022"
     pdf: "https://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/view/17361"
-    notes: "Published in Vol. 5, Issue 1, Pages 44-53"
-    image: ""  # If no image, leave empty or remove
+    notes: ""
+    image: "./assets/img/ijaidm.jpeg"  # If no image, leave empty or remove
 
   - title: "Jendela Jogja: Portal Promosi dan Pemasaran Pariwisata Yogyakarta"
     authors: "Muhammad Rizhan Ridha, Dimas Danu Budi Pratikto, Ari Farhan Nurihsan, Salma Aufa Azaliarahma, Salsabila Zahirah Pranida, Dhomas Hatta Fudholi, Ari Sujarwo"
     conference: "Seminar Nasional Aplikasi Teknologi Informasi (SNATI), 2019"
     conference_short: "SNATI 2019"
     pdf: "https://journal.uii.ac.id/snati/article/view/13443"
-    notes: "Web-based tourism promotion portal for Yogyakarta"
-    image: ""  # No image
+    notes: ""
+    image: "./assets/img/jendelajogja.jpeg"  # No image
