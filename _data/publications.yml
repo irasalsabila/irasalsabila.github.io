@@ -1,4 +1,12 @@
 main:
+  - title: "Synthetic Data Generation for Culturally Nuanced Commonsense Reasoning in Low-Resource Languages"
+    authors: "<strong>Salsabila Zahirah Pranida</strong>, Rifo Ahmad Genadi, Fajri Koto"
+    conference: "ARR Feb 2025"
+    conference_short: "In Submission"
+    pdf: "https://arxiv.org/abs/2502.12932"
+    notes: ""
+    image: "/assets/img/localcloze.jpeg"  # No image
+    
   - title: "Sentiment Analysis of Expedition Customer Satisfaction using BiGRU and BiLSTM"
     authors: "<strong>Salsabila Zahirah Pranida</strong>, Arrie Kurniawardhani"
     conference: "Indonesian Journal of Artificial Intelligence and Data Mining, 2022"
