@@ -11,8 +11,10 @@ I am particularly interested in expanding NLP capabilities for low-resource lang
 If you’re interested in collaborating or discussing low-resource NLP, feel free to get in touch! You can reach me via email at <span style="color:red; font-weight:bold;">salsabila dot pranida at mbzuai.ac.ae</span>.
 
 ## News
-- **[Feb 2025]** Joined **SEA-VL** as a contributor – working on Southeast Asian vision-language research with [SEACrowd](https://seacrowd.github.io)!  
-- **[Jan 2025]** Selected as a **volunteer for COLING 2025** – looking forward to engaging with the NLP community!  
+- **[Mar 2025]** SEA-VL has been published on [arXiv](https://arxiv.org/abs/2503.07920)
+- **[Feb 2025]** Latest paper has been published on[arXiv](https://arxiv.org/abs/2502.12932) and is currently under submission for ARR 2025!
+- **[Jan 2025]** Selected as a **volunteer for COLING 2025** – looking forward to engaging with the NLP community!
+- **[Dec 2024]** Joined **SEA-VL** as a contributor – working on Southeast Asian vision-language research with [SEACrowd](https://seacrowd.github.io)!  
 - **[Aug 2024]** Officially **started my M.Sc. in NLP at MBZUAI** 🎉  
 
 {% include_relative _includes/publications.md %}
