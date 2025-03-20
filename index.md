@@ -12,7 +12,7 @@ If you’re interested in collaborating or discussing low-resource NLP, feel fre
 
 ## News
 - **[Mar 2025]** SEA-VL has been published on [arXiv](https://arxiv.org/abs/2503.07920)
-- **[Feb 2025]** Latest paper has been published on[arXiv](https://arxiv.org/abs/2502.12932) and is currently under submission for ARR 2025!
+- **[Feb 2025]** Latest paper has been published on [arXiv](https://arxiv.org/abs/2502.12932) and is currently under submission for ARR 2025!
 - **[Jan 2025]** Selected as a **volunteer for COLING 2025** – looking forward to engaging with the NLP community!
 - **[Dec 2024]** Joined **SEA-VL** as a contributor – working on Southeast Asian vision-language research with [SEACrowd](https://seacrowd.github.io)!  
 - **[Aug 2024]** Officially **started my M.Sc. in NLP at MBZUAI** 🎉  
