@@ -11,6 +11,8 @@ I am particularly interested in expanding NLP capabilities for low-resource lang
 If you’re interested in collaborating or discussing low-resource NLP, feel free to get in touch! You can reach me via email at <span style="color:red; font-weight:bold;">salsabila dot pranida at mbzuai.ac.ae</span>.
 
 ## News
+- **[Jun 2025]** Excited to begin my **Visiting Student Research** position at the **University of Copenhagen**! Looking forward to collaborating with the team and exploring new research directions.
+- **[May 2025]** Honored to receive a **Visiting Grant** from the **DDSA** in support of my research at the University of Copenhagen.
 - **[Mar 2025]** SEA-VL has been published on [arXiv](https://arxiv.org/abs/2503.07920)
 - **[Feb 2025]** Latest paper has been published on [arXiv](https://arxiv.org/abs/2502.12932) and is currently under submission for ARR 2025!
 - **[Jan 2025]** Selected as a **volunteer for COLING 2025** – looking forward to engaging with the NLP community!
