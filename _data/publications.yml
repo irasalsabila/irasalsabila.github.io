@@ -16,7 +16,7 @@ main:
     pdf: "https://aclanthology.org/2025.mrl-main.25/"
     dataset: "https://huggingface.co/datasets/rifoag/javanese_sundanese_story_cloze"
     notes: ""
-    image: "/assets/img/localcloze.jpeg"
+    image: "/assets/img/localcloze.png"
 
   - title: "Sentiment Analysis of Expedition Customer Satisfaction using BiGRU and BiLSTM"
     authors: "<strong>Salsabila Zahirah Pranida</strong>, Arrie Kurniawardhani"
