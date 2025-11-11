@@ -1,9 +1,20 @@
 main:
-  - title: "Synthetic Data Generation for Culturally Nuanced Commonsense Reasoning in Low-Resource Languages"
-    authors: "<strong>Salsabila Zahirah Pranida</strong>, Rifo Ahmad Genadi, Fajri Koto"
-    conference: "ARR Feb 2025"
-    conference_short: "In Submission"
-    pdf: "https://arxiv.org/abs/2502.12932"
+ - title: "ASR Under Noise: Exploring Robustness for Sundanese and Javanese"
+    authors: "<strong>Salsabila Zahirah Pranida*</strong>, Muhammad Cendekia Airlangga*, Rifo Ahmad Genadi*, and Shady Shehata"
+    conference_short: "WiNLP 2025"
+    conference: "Proceedings of the 9th Workshop on Widening NLP (WiNLP 2025), co-located with EMNLP 2025"
+    pdf: "https://aclanthology.org/2025.winlp-main.16.pdf"
+    code: "https://github.com/rifoagenadi/robust_jvsu_asr"
+    dataset: "https://huggingface.co/datasets/irasalsabila/jvsu_asr"
+    image: "/assets/img/asrundernoise.png"
+    notes: "Best Paper @ WiNLP Workshop 2025"
+    
+  - title: "Culturally-Nuanced Story Generation for Reasoning in Low-Resource Languages: The Case of Javanese and Sundanese"
+    authors: "<strong>Salsabila Zahirah Pranida*</strong>, Rifo Ahmad Genadi*, Fajri Koto"
+    conference: "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), co-located with EMNLP 2025"
+    conference_short: "MRL 2025"
+    pdf: "https://aclanthology.org/2025.mrl-main.25/"
+    dataset: "https://huggingface.co/datasets/rifoag/javanese_sundanese_story_cloze"
     notes: ""
     image: "/assets/img/localcloze.jpeg"  # No image
     
