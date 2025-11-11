@@ -1,5 +1,5 @@
 main:
- - title: "ASR Under Noise: Exploring Robustness for Sundanese and Javanese"
+  - title: "ASR Under Noise: Exploring Robustness for Sundanese and Javanese"
     authors: "<strong>Salsabila Zahirah Pranida*</strong>, Muhammad Cendekia Airlangga*, Rifo Ahmad Genadi*, and Shady Shehata"
     conference_short: "WiNLP 2025"
     conference: "Proceedings of the 9th Workshop on Widening NLP (WiNLP 2025), co-located with EMNLP 2025"
@@ -8,28 +8,20 @@ main:
     dataset: "https://huggingface.co/datasets/irasalsabila/jvsu_asr"
     image: "/assets/img/asrundernoise.png"
     notes: "Best Paper @ WiNLP Workshop 2025"
-    
+
   - title: "Culturally-Nuanced Story Generation for Reasoning in Low-Resource Languages: The Case of Javanese and Sundanese"
     authors: "<strong>Salsabila Zahirah Pranida*</strong>, Rifo Ahmad Genadi*, Fajri Koto"
-    conference: "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), co-located with EMNLP 2025"
     conference_short: "MRL 2025"
+    conference: "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025), co-located with EMNLP 2025"
     pdf: "https://aclanthology.org/2025.mrl-main.25/"
     dataset: "https://huggingface.co/datasets/rifoag/javanese_sundanese_story_cloze"
     notes: ""
-    image: "/assets/img/localcloze.jpeg"  # No image
-    
+    image: "/assets/img/localcloze.jpeg"
+
   - title: "Sentiment Analysis of Expedition Customer Satisfaction using BiGRU and BiLSTM"
     authors: "<strong>Salsabila Zahirah Pranida</strong>, Arrie Kurniawardhani"
     conference: "Indonesian Journal of Artificial Intelligence and Data Mining, 2022"
     conference_short: "IJAIDM 2022"
     pdf: "https://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/view/17361"
     notes: ""
-    image: "/assets/img/ijaidm.jpeg"  # If no image, leave empty or remove
-
-  - title: "Jendela Jogja: Portal Promosi dan Pemasaran Pariwisata Yogyakarta"
-    authors: "Muhammad Rizhan Ridha, Dimas Danu Budi Pratikto, Ari Farhan Nurihsan, Salma Aufa Azaliarahma, <strong>Salsabila Zahirah Pranida</strong>, Dhomas Hatta Fudholi, Ari Sujarwo"
-    conference: "Seminar Nasional Aplikasi Teknologi Informasi (SNATI), 2019"
-    conference_short: "SNATI 2019"
-    pdf: "https://journal.uii.ac.id/snati/article/view/13443"
-    notes: ""
-    image: "/assets/img/jendelajogja.jpeg"  # No image
+    image: "/assets/img/ijaidm.jpeg"
